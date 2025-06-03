@@ -3133,19 +3133,6 @@
     "source": 1
   },
   {
-    "id": 15347,
-    "name": "Mischievous Stitch",
-    "describe": "sent Mischievous Stitch",
-    "diamond_count": 1500,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/6ee2fb724fd8ec341460187d3e182009.png~tplv-obj.webp"
-      ]
-    },
-    "type": 2,
-    "source": 1
-  },
-  {
     "id": 15346,
     "name": "LIVE Ranking Medal",
     "describe": "sent LIVE Ranking Medal",
@@ -3153,6 +3140,19 @@
     "image": {
       "url_list": [
         "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/9ce671a4ecbb625698d9da3e1d86dd70.png~tplv-obj.webp"
+      ]
+    },
+    "type": 2,
+    "source": 1
+  },
+  {
+    "id": 15347,
+    "name": "Mischievous Stitch",
+    "describe": "sent Mischievous Stitch",
+    "diamond_count": 1500,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/6ee2fb724fd8ec341460187d3e182009.png~tplv-obj.webp"
       ]
     },
     "type": 2,
@@ -3172,19 +3172,6 @@
     "source": 1
   },
   {
-    "id": 15351,
-    "name": "Stitch",
-    "describe": "sent Stitch",
-    "diamond_count": 10,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/56f36dc7e7b1adf410aa98c90b5dd88d.png~tplv-obj.webp"
-      ]
-    },
-    "type": 1,
-    "source": 1
-  },
-  {
     "id": 9101,
     "name": "TikTok Universe",
     "describe": "sent TikTok Universe",
@@ -3195,6 +3182,19 @@
       ]
     },
     "type": 2,
+    "source": 1
+  },
+  {
+    "id": 15351,
+    "name": "Stitch",
+    "describe": "sent Stitch",
+    "diamond_count": 10,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/56f36dc7e7b1adf410aa98c90b5dd88d.png~tplv-obj.webp"
+      ]
+    },
+    "type": 1,
     "source": 1
   },
   {
@@ -4745,19 +4745,6 @@
     "source": 2
   },
   {
-    "id": 15650,
-    "name": "Space Jet",
-    "describe": "sent Space Jet",
-    "diamond_count": 9000,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/f5ef982688fa92144a23cfc419b3ca21.png~tplv-obj.webp"
-      ]
-    },
-    "type": 2,
-    "source": 2
-  },
-  {
     "id": 13437,
     "name": "Panda Hug",
     "describe": "sent Panda Hug",
@@ -5701,6 +5688,19 @@
     "image": {
       "url_list": [
         "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/dd6721e25f4b0b5cd8293619efec92d3.png~tplv-obj.webp"
+      ]
+    },
+    "type": 2,
+    "source": 2
+  },
+  {
+    "id": 15650,
+    "name": "Space Jet",
+    "describe": "sent Space Jet",
+    "diamond_count": 9000,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/f5ef982688fa92144a23cfc419b3ca21.png~tplv-obj.webp"
       ]
     },
     "type": 2,
