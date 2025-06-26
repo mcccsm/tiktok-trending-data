@@ -3445,6 +3445,19 @@
     "source": 1
   },
   {
+    "id": 15346,
+    "name": "LIVE Ranking Medal",
+    "describe": "sent LIVE Ranking Medal",
+    "diamond_count": 2999,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/9ce671a4ecbb625698d9da3e1d86dd70.png~tplv-obj.webp"
+      ]
+    },
+    "type": 2,
+    "source": 1
+  },
+  {
     "id": 9101,
     "name": "TikTok Universe",
     "describe": "sent TikTok Universe",
@@ -3491,19 +3504,6 @@
     "image": {
       "url_list": [
         "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/f72f97727e8dc53335195ffb2f937f9b.png~tplv-obj.webp"
-      ]
-    },
-    "type": 2,
-    "source": 1
-  },
-  {
-    "id": 15346,
-    "name": "LIVE Ranking Medal",
-    "describe": "sent LIVE Ranking Medal",
-    "diamond_count": 2999,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/9ce671a4ecbb625698d9da3e1d86dd70.png~tplv-obj.webp"
       ]
     },
     "type": 2,
@@ -4732,32 +4732,6 @@
     "source": 2
   },
   {
-    "id": 15827,
-    "name": "Strawberry Moon",
-    "describe": "sent Strawberry Moon",
-    "diamond_count": 10,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/fc992485593d9ac6395890d1761321e6.png~tplv-obj.webp"
-      ]
-    },
-    "type": 1,
-    "source": 2
-  },
-  {
-    "id": 15826,
-    "name": "Hamster frowning",
-    "describe": "sent Hamster frowning",
-    "diamond_count": 10,
-    "image": {
-      "url_list": [
-        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/b8afa76cfcd202599b390dcb4e5d8197.png~tplv-obj.webp"
-      ]
-    },
-    "type": 1,
-    "source": 2
-  },
-  {
     "id": 8269,
     "name": "Good Morning",
     "describe": "sent Good Morning",
@@ -5639,6 +5613,32 @@
       ]
     },
     "type": 2,
+    "source": 2
+  },
+  {
+    "id": 15827,
+    "name": "Strawberry Moon",
+    "describe": "sent Strawberry Moon",
+    "diamond_count": 10,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/fc992485593d9ac6395890d1761321e6.png~tplv-obj.webp"
+      ]
+    },
+    "type": 1,
+    "source": 2
+  },
+  {
+    "id": 15826,
+    "name": "Hamster frowning",
+    "describe": "sent Hamster frowning",
+    "diamond_count": 10,
+    "image": {
+      "url_list": [
+        "https://p16-webcast.tiktokcdn.com/img/alisg/webcast-sg/resource/b8afa76cfcd202599b390dcb4e5d8197.png~tplv-obj.webp"
+      ]
+    },
+    "type": 1,
     "source": 2
   }
 ]
